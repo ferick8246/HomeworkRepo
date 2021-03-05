@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Refactor To Single CSS and changed name*/
 .benefit-div {
     margin-bottom: 32px;
     color: #ffffff;
@@ -96,12 +96,14 @@ p {
     text-align: center;
 }
 
+/*Refactor To Single CSS and changed name*/
 .benefit-div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Refactor To Single CSS and changed name*/
 .content-class-div {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,10 +113,12 @@ p {
     color: #ffffff;
 }
 
+/*Refactor To Single CSS and changed name*/
 .content-class-div img {
     max-height: 200px;
 }
 
+/*Refactor To Single CSS and changed name*/
 .content-class-div h2 {
     margin-bottom: 20px;
     font-size: 36px;
